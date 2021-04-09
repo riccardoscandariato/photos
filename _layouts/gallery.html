@@ -12,8 +12,8 @@ layout: default
   <div id="gallery">
 	  
     {% for image in page.images %}
-      <a data-fancybox="slides" href="{{ site.galleries_path }}/{{ page.folder }}/{{ image.large }}">
-        <img src="{{ site.galleries_path }}/{{ page.folder }}/{{ image.small }}">
+      <a data-fancybox="slides" href="{{ site.baseurl }}/{{ site.galleries_path }}/{{ page.folder }}/{{ image.large }}">
+        <img src="{{ site.baseurl }}/{{ site.galleries_path }}/{{ page.folder }}/{{ image.small }}">
       </a>
     {% endfor %}
 	  
