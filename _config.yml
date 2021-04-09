@@ -8,5 +8,5 @@ description: All about my photo adventures...
 markdown: kramdown
 
 # Custom variables
-galleries_path: "{{ site.baseurl }}/assets/galleries"
+galleries_path: "assets/galleries"
 
