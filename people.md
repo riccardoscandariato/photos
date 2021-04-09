@@ -4,8 +4,6 @@ layout: gallery
 title: People
 description: Click on a picture to enlarge
 
-#permalink: /people/
-
 folder: people
 
 images:

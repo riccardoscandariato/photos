@@ -4,8 +4,6 @@ layout: gallery
 title: Objects
 description: Click on a picture to enlarge
 
-#permalink: /objects/
-
 folder: objects
 
 images:

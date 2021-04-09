@@ -4,8 +4,6 @@ layout: gallery
 title: Places
 description: Click on a picture to enlarge
 
-#permalink: /places/
-
 folder: places
 
 images:
